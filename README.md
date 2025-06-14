@@ -61,7 +61,7 @@ Your submission will be evaluated based on:
 
 ## ⏰ SUBMISSION DEADLINE
 
-**All uploads must be completed on the portal before 11:59PM 14/06/2025. Late submissions will not be accepted.**
+**All uploads must be completed on the portal before *11:59PM 14/06/2025*. Late submissions will not be accepted.**
 
 ---
 
