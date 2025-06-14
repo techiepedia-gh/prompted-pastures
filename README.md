@@ -24,12 +24,12 @@ We’ve simplified the submission process!
 
 ## 📝 WHAT YOU NEED TO SUBMIT
 
-### ✍️ TEXT PROMPT
+### TEXT PROMPT
 * Write your own original prompt that fits the theme
 * Keep it clear and meaningful  
 * Maximum **200 words**
 
-### 🖼️ AI-GENERATED IMAGE
+### AI-GENERATED IMAGE
 * Use any AI image creation tool you prefer
 * The image must be generated directly from your prompt without manual editing
 * Save as any image format
@@ -41,21 +41,21 @@ We’ve simplified the submission process!
 
 Your submission will be evaluated based on:
 
-* 💡 **Creativity and Originality of Prompt**
-* 🎯 **Thematic Relevance to “Green Pastures”**
-* 👁️ **Visual Clarity and Execution**
-* 🔗 **Prompt-Image Consistency**
-* 💪 **Overall Conceptual Strength**
+*  **Creativity and Originality of Prompt**
+*  **Thematic Relevance to “Green Pastures”**
+*  **Visual Clarity and Execution**
+*  **Prompt-Image Consistency**
+*  **Overall Conceptual Strength**
 
 ---
 
 ## ⚠️ IMPORTANT RULES
 
-* 1️⃣ **One entry per person only**
-* ✅ **Prompt must be your own original creation**
-* 🚫 **Do not edit the image after generation** (no Photoshop, etc.)
-* 🛡️ **Content must be appropriate** – no violence, explicit or offensive content
-* 🔍 **Submissions not meeting the rules may be disqualified**
+* 📌**One entry per person only**
+* 📌**Prompt must be your own original creation**
+* 📌**Do not edit the image after generation** (no Photoshop, etc.)
+* 📌**Content must be appropriate** – no violence, explicit or offensive content
+* 📌**Submissions not meeting the rules may be disqualified**
 
 ---
 
@@ -68,8 +68,8 @@ Your submission will be evaluated based on:
 ## 📋 SUBMISSION CHECKLIST
 
 - [ ] You received your login credentials via email
-- [ ] Your prompt is original and ≤110 words
-- [ ] Your image is in JPG or PNG format and ≤7MB
+- [ ] Your prompt is original and ≤200 words
+- [ ] Your image is in any image format and ≤7MB
 - [ ] Your details file includes tool used and generation steps
 - [ ] All files are submitted through the official portal before the deadline
 
@@ -81,7 +81,7 @@ If you have questions about the competition or face issues with the portal, plea
 
 ---
 
-> 💼 *The organizing team reserves the right to disqualify entries that do not align with the competition's purpose or ethics.*
+>  *The organizing team reserves the right to disqualify entries that do not align with the competition's purpose or ethics.*
 
 ---
 
