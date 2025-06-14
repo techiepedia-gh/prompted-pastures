@@ -70,7 +70,6 @@ Your submission will be evaluated based on:
 - [ ] You received your login credentials via email
 - [ ] Your prompt is original and ≤200 words
 - [ ] Your image is in any image format and ≤7MB
-- [ ] Your details file includes tool used and generation steps
 - [ ] All files are submitted through the official portal before the deadline
 
 ---
