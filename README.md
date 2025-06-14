@@ -51,11 +51,11 @@ Your submission will be evaluated based on:
 
 ## ⚠️ IMPORTANT RULES
 
-* 📌**One entry per person only**
-* 📌**Prompt must be your own original creation**
-* 📌**Do not edit the image after generation** (no Photoshop, etc.)
-* 📌**Content must be appropriate** – no violence, explicit or offensive content
-* 📌**Submissions not meeting the rules may be disqualified**
+* 📌 **One entry per person**
+* 📌 **Prompt must be your own original creation**
+* 📌 **Do not edit the image after generation** (no Photoshop, etc.)
+* 📌 **Content must be appropriate** – no violence, explicit or offensive content
+* 📌 **Submissions not meeting the rules may be disqualified**
 
 ---
 
